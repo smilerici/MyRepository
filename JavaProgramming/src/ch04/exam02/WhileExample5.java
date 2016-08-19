@@ -22,8 +22,7 @@ public class WhileExample5 {
 			} else if(keyCode == 50) {
 				speed--;
 				System.out.println("현재속도: "+speed);
-			} else if(keyCode == 51) {
-				System.out.println("3을 눌렀음");	
+			} else if(keyCode == 51) {	
 				run = false;
 			}
 		}
