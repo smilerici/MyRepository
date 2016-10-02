@@ -21,7 +21,7 @@ public class ThrowsExClass {
 		try {
 			actionA();
 		} catch (Exception e) {
-			System.out.println("���ܴ� ���⼭ ó�� �Ҳ���.^^");
+			System.out.println("예외는 여기서 처리할게요.^^");
 			System.out.println(e.getMessage());
 		}
 		
